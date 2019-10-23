@@ -2,3 +2,4 @@
 utilizando git y aprendiendo de ello.
 Tecnología que vamos a usar es andorid Studio
 -SDK Oreo
+Se han realizado cambios
