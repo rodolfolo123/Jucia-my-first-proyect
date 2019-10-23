@@ -1,2 +1,4 @@
-Este es un proyecto nuevo
+# Este es un proyecto nuevo
 utilizando git y aprendiendo de ello.
+Tecnología que vamos a usar es andorid Studio
+-SDK Oreo
